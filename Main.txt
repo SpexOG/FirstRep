@@ -1,1 +1,2 @@
 Salut, sunt Sebi si invat sa folosesc Git.
+Azi invat despre commituri.
